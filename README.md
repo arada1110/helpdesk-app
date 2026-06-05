@@ -29,7 +29,7 @@ docker-compose up -d
 - เข้าใช้งาน pgAdmin จาก environment ที่กำหนดไว้ในไฟล์ .env
 
 #### 2. การติดตั้งและการใช้งาน Service API
-- ทำการ get service จาก [ticketapi](https://github.com/arada110/ticketapi) ด้วยคำสั่ง git clone
+- ทำการ get service จาก https://github.com/arada1110/ticketapi ด้วยคำสั่ง git clone
 ```bash
 git clone https://github.com/arada110/ticketapi
 
@@ -53,7 +53,7 @@ docker-compose up -d
 - จะเปิด URL: http://localhost:8080 สำหรับเรียกดูข้อมูลผ่านการทำ api
 
 #### 3. การติดตั้งและการใช้งานหน้าเว็บ Help desk ticket
-- ทำการ get หน้าเว็บจาก [help desk ticket app](https://github.com/arada1110/helpdesk-ticket-app) ด้วยคำสั่ง git clone
+- ทำการ get หน้าเว็บจาก https://github.com/arada1110/helpdesk-ticket-app ด้วยคำสั่ง git clone
 ```bash
 git clone https://github.com/arada1110/helpdesk-ticket-app
 
