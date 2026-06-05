@@ -16,7 +16,7 @@
 - ทำการ get database จาก https://github.com/arada1110/ticketdatabase ด้วยคำสั่ง git clone
 ```bash
 # เปิด command prompt or terminal บนระบบปฏิบัติการของเครื่อง
-git clone https://github.com/arada110/ticketdatabase
+git clone https://github.com/arada1110/ticketdatabase
 
 cd ticketdatabase
 ```
@@ -31,7 +31,7 @@ docker-compose up -d
 #### 2. การติดตั้งและการใช้งาน Service API
 - ทำการ get service จาก https://github.com/arada1110/ticketapi ด้วยคำสั่ง git clone
 ```bash
-git clone https://github.com/arada110/ticketapi
+git clone https://github.com/arada1110/ticketapi
 
 cd ticketapi
 ```
